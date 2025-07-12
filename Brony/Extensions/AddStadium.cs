@@ -21,4 +21,5 @@ public static class AddStadium
         stadiums.Add(newStadium);
     }
     #endregion
+    //
 }
